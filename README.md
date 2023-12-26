@@ -1,6 +1,6 @@
 # signify_demo_app
 
-A new Flutter project.
+A new Flutter project developed with clean archtitechture and used bloc pattern for state management. 
 
 ## Getting Started
 
